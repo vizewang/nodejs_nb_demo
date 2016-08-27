@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_nb_demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vizewang/nodejs_nb_demo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "demo"
+  ],
+  "author": "lb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vizewang/nodejs_nb_demo/issues"
+  },
+  "homepage": "https://github.com/vizewang/nodejs_nb_demo#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
